@@ -1,6 +1,4 @@
-DETAILS PANEL
-
-1-	Map Usage Instructions:
+###Map Usage Instructions:
 
 1.1 Utilization Rates maps:
 On the left-side bar, click the box for this type of map. Then, use the arrow (“>”) to expand on the sub-options and select the facility type: SNFs, HHAs, IRFs or SNFs+HHAs+IRFs. When you select a facility, then you need to again use the arrow to expand on the sub-option and select your time frame of choice: 2022 (most recent year available when the maps were developed), 2019 (pre-COVID 19 and prior payment and documentation reforms for HHAs and SNFs), 2013 (oldest data available), or yearly average for ten years combined [2013-2022]. A color-gradient map (choropleth map) will then emerge with the data selection you have activated.
