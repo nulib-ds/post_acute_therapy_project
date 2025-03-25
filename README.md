@@ -79,27 +79,28 @@ Services for HH were obtained from the revenue center files on the Chronic Condi
 
 
 
-Work conducted at:
 
-A red sign with white text AI-generated content may be incorrect.  A purple sign with white text AI-generated content may be incorrect.     A purple text on a black background AI-generated content may be incorrect.
 
+# Work conducted at:
+
+![The Ohio State University](img/ohio_state.png) ![Northwestern Medicine](img/northwestern_medicine.png) ![Northwestern University Libraries](img/NUL_library.png)
  
 
-Principal Investigator: Tiago Jesus, PhD, OTD, OTR/L,
+### Principal Investigator: Tiago Jesus, PhD, OTD, OTR/L,
 
 Division of Occupational Therapy, School of Health and Rehabilitation Sciences, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA. tiago.jesus@osumc.edu
 
  
 
-Map design and application: Mech Frazier, MA
+### Map design and application: Mech Frazier, MA
 
 GIS Specialist, Digital Scholarship, Northwestern University Libraries, Evanston, Illinois, USA. mech.frazier@northwestern.edu 
 
  
 
-Funding:
+## Funding:
 
- A blue and orange logo AI-generated content may be incorrect. A blue and red logo AI-generated content may be incorrect.
+![NIDILRR](img/NIDILRR.png) ![ACL](img/ACL.png)
 
 Work funded by the Switzer Fellowship, Award #: 90SFGE0046-01-00 from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), which is part of the Administration for Community Living (ACL).
 
