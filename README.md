@@ -76,3 +76,31 @@ Services for HH were obtained from the revenue center files on the Chronic Condi
 5. Prusynski RA, Humbert A, Leland NE, et al. Dual impacts of Medicare payment reform and the COVID-19 pandemic on therapy staffing in skilled nursing facilities. Journal of the American Geriatrics Society 2022;Online ahead of print doi: 10.1111/jgs.18208 [published Online First: 2022/12/27]
 6. McGarry BE, Grabowski DC, Barnett ML. Severe Staffing And Personal Protective Equipment Shortages Faced By Nursing Homes During The COVID-19 Pandemic. Health Aff (Millwood) 2020;39(10):1812-21. doi: 10.1377/hlthaff.2020.01269 [published Online First: 20200820]
 7. Konetzka RT, White EM, Pralea A, et al. A systematic review of long-term care facility characteristics associated with COVID-19 outcomes. J Am Geriatr Soc 2021;69(10):2766-77. doi: 10.1111/jgs.17434 [published Online First: 20210921]
+
+
+
+Work conducted at:
+
+A red sign with white text AI-generated content may be incorrect.  A purple sign with white text AI-generated content may be incorrect.     A purple text on a black background AI-generated content may be incorrect.
+
+ 
+
+Principal Investigator: Tiago Jesus, PhD, OTD, OTR/L,
+
+Division of Occupational Therapy, School of Health and Rehabilitation Sciences, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA. tiago.jesus@osumc.edu
+
+ 
+
+Map design and application: Mech Frazier, MA
+
+GIS Specialist, Digital Scholarship, Northwestern University Libraries, Evanston, Illinois, USA. mech.frazier@northwestern.edu 
+
+ 
+
+Funding:
+
+ A blue and orange logo AI-generated content may be incorrect. A blue and red logo AI-generated content may be incorrect.
+
+Work funded by the Switzer Fellowship, Award #: 90SFGE0046-01-00 from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), which is part of the Administration for Community Living (ACL).
+
+Disclaimer: This project supported by the Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS). The contents are those of the author(s) and do not necessarily represent the official views of, nor an endorsement, by ACL/HHS, or the Administration For Community Living U.S. Government.
