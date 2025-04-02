@@ -1,4 +1,19 @@
-# Map Usage Instructions
+# A Quick Introduction to Exploring the Maps
+
+### Using Widgets
+https://github.com/user-attachments/assets/5079460e-9c8a-4d38-9be2-1c4dc3b2f3e8
+
+
+### Navigating the Layer List
+https://github.com/user-attachments/assets/2ecae4c2-719f-49f2-ae3a-2bfb354b3162
+
+
+### Exporting Data
+https://github.com/user-attachments/assets/d8e54412-daa9-4402-9f42-a7f6fb226d27
+
+
+
+# Technical Map Usage Instructions
 
 ### 1.1 Utilization Rates maps:
 
