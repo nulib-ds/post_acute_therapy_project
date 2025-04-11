@@ -80,6 +80,8 @@ Longitudinal comparisons for SNFs-based therapy minutes based on the PAC PUF, es
 ### 2.5	Data collection for HHAs 
 Services for HH were obtained from the revenue center files on the Chronic Conditions Data Warehouse and include the following revenue center codes: 0420-0429 (physical therapy), 0430-0439 (occupational therapy), 0440-0449 (speech language pathology). There were no reported changes on how these data are collected, computed or reported over time.
 
+### 2.6. Provider Facilities
+The provider facilities are those SNFs, HHAs, and IRFs that, in 2024, were identified by the CMS as being Medicare-certified, whose files and data were obtained from: https://data.cms.gov/provider-data/search. For the HHAs, we only mapped those who had a record, in those files, of offering any of three rehabilitation therapies analyzed here. The mapped data exclusively reflects the extracted information, including any errors in it, and cannot be understood as a form of endorsement, recommendation, or insurances accepted.
 
  
 # References
